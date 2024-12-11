@@ -1,0 +1,223 @@
+C:\Rosie\C#\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.exe
+C:\Rosie\C#\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.deps.json
+C:\Rosie\C#\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.runtimeconfig.json
+C:\Rosie\C#\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.dll
+C:\Rosie\C#\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.pdb
+C:\Rosie\C#\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Rosie\C#\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+C:\Rosie\C#\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Rosie\C#\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Rosie\C#\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Rosie\C#\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.AssemblyReference.cache
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Form1.resources
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.GenerateResource.cache
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.AssemblyInfoInputs.cache
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.AssemblyInfo.cs
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.CoreCompileInputs.cache
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_.942AEF7C.Up2Date
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.dll
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\refint\Project_FourCut.dll
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.pdb
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.genruntimeconfig.cache
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\ref\Project_FourCut.dll
+C:\Rosie\C#\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Rosie\C#\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.ResolveComReference.cache
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.First_main.resources
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Properties.Resources.resources
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectAmountForm.resources
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Payment.resources
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectFrameForm.resources
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectCameraPrictureForm.resources
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.CameraPicureForm.resources
+C:\whyne\Project\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.exe
+C:\whyne\Project\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.deps.json
+C:\whyne\Project\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.runtimeconfig.json
+C:\whyne\Project\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.dll
+C:\whyne\Project\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.pdb
+C:\whyne\Project\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\whyne\Project\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+C:\whyne\Project\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\whyne\Project\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\whyne\Project\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\whyne\Project\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\whyne\Project\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\whyne\Project\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.AssemblyReference.cache
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.ResolveComReference.cache
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.CameraPicureForm.resources
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.First_main.resources
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Form1.resources
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Payment.resources
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Properties.Resources.resources
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectAmountForm.resources
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectCameraPrictureForm.resources
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectFrameForm.resources
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.GenerateResource.cache
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.GeneratedMSBuildEditorConfig.editorconfig
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.AssemblyInfoInputs.cache
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.AssemblyInfo.cs
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.CoreCompileInputs.cache
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_.942AEF7C.Up2Date
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.dll
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\refint\Project_FourCut.dll
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.pdb
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.genruntimeconfig.cache
+C:\whyne\Project\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\ref\Project_FourCut.dll
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.exe
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.deps.json
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.runtimeconfig.json
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.dll
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.pdb
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.AssemblyReference.cache
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.ResolveComReference.cache
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.CameraPicureForm.resources
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.First_main.resources
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Form1.resources
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Form2.resources
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Payment.resources
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Properties.Resources.resources
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectAmountForm.resources
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectCameraPrictureForm.resources
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectFrameForm.resources
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.GenerateResource.cache
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.AssemblyInfoInputs.cache
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.AssemblyInfo.cs
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.CoreCompileInputs.cache
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_.942AEF7C.Up2Date
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.dll
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\refint\Project_FourCut.dll
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.pdb
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.genruntimeconfig.cache
+C:\Users\LEE\Desktop\Project_FourCut (1)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\ref\Project_FourCut.dll
+C:\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.exe
+C:\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.deps.json
+C:\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.runtimeconfig.json
+C:\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.dll
+C:\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.pdb
+C:\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+C:\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.AssemblyReference.cache
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.ResolveComReference.cache
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.CameraPictureForm2.resources
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.CameraPicureForm.resources
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.First_main.resources
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Form2.resources
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Payment.resources
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Properties.Resources.resources
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectAmountForm.resources
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectCameraPrictureForm.resources
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectFrameForm.resources
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.GenerateResource.cache
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.AssemblyInfoInputs.cache
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.AssemblyInfo.cs
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.CoreCompileInputs.cache
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_.942AEF7C.Up2Date
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.dll
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\refint\Project_FourCut.dll
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.pdb
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.genruntimeconfig.cache
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\ref\Project_FourCut.dll
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.exe
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.deps.json
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.runtimeconfig.json
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.dll
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.pdb
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.AssemblyReference.cache
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.ResolveComReference.cache
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.CameraPictureForm2.resources
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.CameraPicureForm.resources
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.First_main.resources
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Form1.resources
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Form2.resources
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Payment.resources
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Properties.Resources.resources
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectAmountForm.resources
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectCameraPrictureForm.resources
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectFrameForm.resources
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.GenerateResource.cache
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.AssemblyInfoInputs.cache
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.AssemblyInfo.cs
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.CoreCompileInputs.cache
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_.942AEF7C.Up2Date
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.dll
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\refint\Project_FourCut.dll
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.pdb
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.genruntimeconfig.cache
+C:\Users\woohy\OneDrive\문서\카카오톡 받은 파일\Project_FourCut (2)\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\ref\Project_FourCut.dll
+C:\Project_FourCut\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.exe
+C:\Project_FourCut\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.deps.json
+C:\Project_FourCut\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.runtimeconfig.json
+C:\Project_FourCut\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.dll
+C:\Project_FourCut\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Project_FourCut.pdb
+C:\Project_FourCut\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Project_FourCut\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+C:\Project_FourCut\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Project_FourCut\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Project_FourCut\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Project_FourCut\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Project_FourCut\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Project_FourCut\Project_FourCut\Project_FourCut\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.AssemblyReference.cache
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.ResolveComReference.cache
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.CameraPictureForm2.resources
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.CameraPicureForm.resources
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.First_main.resources
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Form1.resources
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Form2.resources
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Payment.resources
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.Properties.Resources.resources
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectAmountForm.resources
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectCameraPrictureForm.resources
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.SelectFrameForm.resources
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.GenerateResource.cache
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.AssemblyInfoInputs.cache
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.AssemblyInfo.cs
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.csproj.CoreCompileInputs.cache
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_.942AEF7C.Up2Date
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.dll
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\refint\Project_FourCut.dll
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.pdb
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.genruntimeconfig.cache
+C:\Project_FourCut\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\ref\Project_FourCut.dll
+C:\Project_FourCut\Project_FourCut\obj\Debug\net8.0-windows\Project_FourCut.FinalForm.resources

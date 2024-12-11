@@ -1,0 +1,7 @@
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net6.0-windows\Project_FourCut.csproj.AssemblyReference.cache
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net6.0-windows\Project_FourCut.Form1.resources
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net6.0-windows\Project_FourCut.csproj.GenerateResource.cache
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net6.0-windows\Project_FourCut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net6.0-windows\Project_FourCut.AssemblyInfoInputs.cache
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net6.0-windows\Project_FourCut.AssemblyInfo.cs
+C:\Rosie\C#\Project_FourCut\Project_FourCut\obj\Debug\net6.0-windows\Project_FourCut.csproj.CoreCompileInputs.cache
